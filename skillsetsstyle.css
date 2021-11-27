@@ -1,0 +1,36 @@
+﻿span {
+    float: right;
+}
+
+h1 {
+    color: white;
+    text-align: left;
+    font-family: Georgia;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    background-color: #1e6091;
+    padding: 5px;
+}
+
+a:hover {
+    color: black;
+}
+a {
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: white;
+    padding: 10px;
+}
+h2 {
+    font-family: Georgia;
+    font-size: 28px;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+h3 {
+    background-color: #1e6091;
+    color: white;
+    font-family: Georgia;
+}
